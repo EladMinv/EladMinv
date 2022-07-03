@@ -13,4 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print("Second commit")
+    print("This is main branch and connected to github")
+    print("This is new branch and connected to github")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
